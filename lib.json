@@ -1,0 +1,53 @@
+[
+	{
+		"id": "http://zotero.org/users/8122201/items/QFNP537N",
+		"type": "paper-conference",
+		"collection-title": "Lecture Notes in Computer Science",
+		"container-title": "Coordination Models and Languages - 23rd IFIP WG 6.1 International Conference, COORDINATION 2021, Held as Part of the 16th International Federated Conference on Distributed Computing Techniques, DisCoTec 2021, Valletta, Malta, June 14-18, 2021, Proceedings",
+		"DOI": "10.1007/978-3-030-78142-2_18",
+		"page": "285–299",
+		"publisher": "Springer",
+		"title": "ScaFi-Web: A Web-Based Application for Field-Based Coordination Programming",
+		"URL": "https://doi.org/10.1007/978-3-030-78142-2_18",
+		"volume": "12717",
+		"author": [
+			{
+				"family": "Aguzzi",
+				"given": "Gianluca"
+			},
+			{
+				"family": "Casadei",
+				"given": "Roberto"
+			},
+			{
+				"family": "Maltoni",
+				"given": "Niccolò"
+			},
+			{
+				"family": "Pianini",
+				"given": "Danilo"
+			},
+			{
+				"family": "Viroli",
+				"given": "Mirko"
+			}
+		],
+		"editor": [
+			{
+				"family": "Damiani",
+				"given": "Ferruccio"
+			},
+			{
+				"family": "Dardha",
+				"given": "Ornela"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	}
+]
