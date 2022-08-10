@@ -1,297 +1,325 @@
 [
-	{
-		"id": "http://zotero.org/users/8122201/items/QFNP537N",
-		"type": "paper-conference",
-		"collection-title": "Lecture Notes in Computer Science",
-		"container-title": "Coordination Models and Languages - 23rd IFIP WG 6.1 International Conference, COORDINATION 2021, Held as Part of the 16th International Federated Conference on Distributed Computing Techniques, DisCoTec 2021, Valletta, Malta, June 14-18, 2021, Proceedings",
-		"DOI": "10.1007/978-3-030-78142-2_18",
-		"page": "285–299",
-		"publisher": "Springer",
-		"title": "ScaFi-Web: A Web-Based Application for Field-Based Coordination Programming",
-		"URL": "https://doi.org/10.1007/978-3-030-78142-2_18",
-		"volume": "12717",
-		"author": [
-			{
-				"family": "Aguzzi",
-				"given": "Gianluca"
-			},
-			{
-				"family": "Casadei",
-				"given": "Roberto"
-			},
-			{
-				"family": "Maltoni",
-				"given": "Niccolò"
-			},
-			{
-				"family": "Pianini",
-				"given": "Danilo"
-			},
-			{
-				"family": "Viroli",
-				"given": "Mirko"
-			}
-		],
-		"editor": [
-			{
-				"family": "Damiani",
-				"given": "Ferruccio"
-			},
-			{
-				"family": "Dardha",
-				"given": "Ornela"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2021"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/8122201/items/RFZTYLQC",
-		"type": "article-journal",
-		"abstract": "Research and technology developments on autonomous agents and autonomic computing promote a vision of artificial systems that are able to resiliently manage themselves and autonomously deal with issues at runtime in dynamic environments. Indeed, autonomy can be leveraged to unburden humans from mundane tasks (cf. driving and autonomous vehicles), from the risk of operating in unknown or perilous environments (cf. rescue scenarios), or to support timely decision-making in complex settings (cf. data-centre operations). Beyond the results that individual autonomous agents can carry out, a further opportunity lies in the collaboration of multiple agents or robots. Emerging macro-paradigms provide an approach to programming whole collectives towards global goals. Aggregate computing is one such paradigm, formally grounded in a calculus of computational fields enabling functional composition of collective behaviours that could be proved, under certain technical conditions, to be self-stabilising. In this work, we address the concept of collective autonomy, i.e., the form of autonomy that applies at the level of a group of individuals. As a contribution, we define an agent control architecture for aggregate multi-agent systems, discuss how the aggregate computing framework relates to both individual and collective autonomy, and show how it can be used to program collective autonomous behaviour. We exemplify the concepts through a simulated case study, and outline a research roadmap towards reliable aggregate autonomy.",
-		"container-title": "Journal of Sensor and Actuator Networks",
-		"DOI": "10.3390/jsan10020027",
-		"ISSN": "2224-2708",
-		"issue": "2",
-		"journalAbbreviation": "JSAN",
-		"language": "en",
-		"page": "27",
-		"source": "DOI.org (Crossref)",
-		"title": "A Programming Approach to Collective Autonomy",
-		"URL": "https://www.mdpi.com/2224-2708/10/2/27",
-		"volume": "10",
-		"author": [
-			{
-				"family": "Casadei",
-				"given": "Roberto"
-			},
-			{
-				"family": "Aguzzi",
-				"given": "Gianluca"
-			},
-			{
-				"family": "Viroli",
-				"given": "Mirko"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					6,
-					10
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2021",
-					4,
-					19
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/8122201/items/DG5A87CT",
-		"type": "paper-conference",
-		"container-title": "Proceedings of the Conference on Information Technology for Social Good",
-		"DOI": "10.1145/3462203.3477056",
-		"event": "GoodIT '21: Conference on Information Technology for Social Good",
-		"event-place": "Roma Italy",
-		"ISBN": "978-1-4503-8478-0",
-		"language": "en",
-		"page": "230-235",
-		"publisher": "ACM",
-		"publisher-place": "Roma Italy",
-		"source": "DOI.org (Crossref)",
-		"title": "Encouraging users in waste sorting using deep neural networks and gamification",
-		"URL": "https://dl.acm.org/doi/10.1145/3462203.3477056",
-		"author": [
-			{
-				"family": "Delnevo",
-				"given": "Giovanni"
-			},
-			{
-				"family": "Aguzzi",
-				"given": "Gianluca"
-			},
-			{
-				"family": "Letizi",
-				"given": "Simone"
-			},
-			{
-				"family": "Luffarelli",
-				"given": "Marta"
-			},
-			{
-				"family": "Petreti",
-				"given": "Andrea"
-			},
-			{
-				"family": "Mirri",
-				"given": "Silvia"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2021",
-					9,
-					26
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2021",
-					9,
-					9
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/8122201/items/QANMTJPE",
-		"type": "paper-conference",
-		"container-title": "2021 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C)",
-		"DOI": "10.1109/ACSOS-C52956.2021.00078",
-		"event": "2021 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C)",
-		"event-place": "DC, USA",
-		"ISBN": "978-1-66544-393-7",
-		"page": "310-312",
-		"publisher": "IEEE",
-		"publisher-place": "DC, USA",
-		"source": "DOI.org (Crossref)",
-		"title": "Research directions for Aggregate Computing with Machine Learning",
-		"URL": "https://ieeexplore.ieee.org/document/9599092/",
-		"author": [
-			{
-				"family": "Aguzzi",
-				"given": "Gianluca"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					3,
-					5
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2021",
-					9
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/8122201/items/C7JUIBUT",
-		"type": "paper-conference",
-		"container-title": "2021 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C)",
-		"DOI": "10.1109/ACSOS-C52956.2021.00033",
-		"event": "2021 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C)",
-		"event-place": "DC, USA",
-		"ISBN": "978-1-66544-393-7",
-		"page": "99-104",
-		"publisher": "IEEE",
-		"publisher-place": "DC, USA",
-		"source": "DOI.org (Crossref)",
-		"title": "Towards Pulverised Architectures for Collective Adaptive Systems through Multi-Tier Programming",
-		"URL": "https://ieeexplore.ieee.org/document/9599177/",
-		"author": [
-			{
-				"family": "Aguzzi",
-				"given": "Gianluca"
-			},
-			{
-				"family": "Casadei",
-				"given": "Roberto"
-			},
-			{
-				"family": "Pianini",
-				"given": "Danilo"
-			},
-			{
-				"family": "Salvaneschi",
-				"given": "Guido"
-			},
-			{
-				"family": "Viroli",
-				"given": "Mirko"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					3,
-					6
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2021",
-					9
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/8122201/items/CTW32QZ9",
-		"type": "paper-conference",
-		"collection-title": "Lecture Notes in Computer Science",
-		"container-title": "Coordination Models and Languages - 24th IFIP WG 6.1 International Conference, COORDINATION 2022, Held as Part of the 17th International Federated Conference on Distributed Computing Techniques, DisCoTec 2022, Lucca, Italy, June 13-17, 2022, Proceedings",
-		"DOI": "10.1007/978-3-031-08143-9_5",
-		"page": "72–91",
-		"publisher": "Springer",
-		"title": "Towards Reinforcement Learning-based Aggregate Computing",
-		"URL": "https://doi.org/10.1007/978-3-031-08143-9\\_5",
-		"volume": "13271",
-		"author": [
-			{
-				"family": "Aguzzi",
-				"given": "Gianluca"
-			},
-			{
-				"family": "Casadei",
-				"given": "Roberto"
-			},
-			{
-				"family": "Viroli",
-				"given": "Mirko"
-			}
-		],
-		"editor": [
-			{
-				"family": "Beek",
-				"given": "Maurice H.",
-				"dropping-particle": "ter"
-			},
-			{
-				"family": "Sirjani",
-				"given": "Marjan"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2022"
-				]
-			]
-		}
-	}
+  {
+    "DOI": "10.1007/978-3-031-08143-9\\_5",
+    "URL": "https://doi.org/10.1007/978-3-031-08143-9\\_5",
+    "author": [
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Casadei",
+        "given": "Roberto"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "collection-title": "Lecture notes in computer science",
+    "container-title": "Coordination models and languages - 24th IFIP WG 6.1 international conference, COORDINATION 2022, held as part of the 17th international federated conference on distributed computing techniques, DisCoTec 2022, lucca, italy, june 13-17, 2022, proceedings",
+    "editor": [
+      {
+        "dropping-particle": "ter",
+        "family": "Beek",
+        "given": "Maurice H."
+      },
+      {
+        "family": "Sirjani",
+        "given": "Marjan"
+      }
+    ],
+    "id": "DBLP:conf/coordination/AguzziCV22",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "72-91",
+    "publisher": "Springer",
+    "title": "Towards reinforcement learning-based aggregate computing",
+    "type": "paper-conference",
+    "volume": "13271"
+  },
+  {
+    "DOI": "10.3390/jsan10020027",
+    "URL": "https://doi.org/10.3390/jsan10020027",
+    "author": [
+      {
+        "family": "Casadei",
+        "given": "Roberto"
+      },
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "container-title": "J. Sens. Actuator Networks",
+    "id": "DBLP:journals/jsan/CasadeiAV21",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "27",
+    "title": "A programming approach to collective autonomy",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
+    "DOI": "10.1109/ACSOS-C52956.2021.00033",
+    "URL": "https://doi.org/10.1109/ACSOS-C52956.2021.00033",
+    "author": [
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Casadei",
+        "given": "Roberto"
+      },
+      {
+        "family": "Pianini",
+        "given": "Danilo"
+      },
+      {
+        "family": "Salvaneschi",
+        "given": "Guido"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "container-title": "IEEE international conference on autonomic computing and self-organizing systems, ACSOS 2021, companion volume, washington, DC, USA, september 27 - oct. 1, 2021",
+    "editor": [
+      {
+        "family": "El-Araby",
+        "given": "Esam"
+      },
+      {
+        "family": "Kalogeraki",
+        "given": "Vana"
+      },
+      {
+        "family": "Pianini",
+        "given": "Danilo"
+      },
+      {
+        "family": "Lassabe",
+        "given": "Frédéric"
+      },
+      {
+        "family": "Porter",
+        "given": "Barry"
+      },
+      {
+        "family": "Ghahremani",
+        "given": "Sona"
+      },
+      {
+        "family": "Nunes",
+        "given": "Ingrid"
+      },
+      {
+        "family": "Bakhouya",
+        "given": "Mohamed"
+      },
+      {
+        "family": "Tomforde",
+        "given": "Sven"
+      }
+    ],
+    "id": "DBLP:conf/acsos/AguzziCPSV21",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "99-104",
+    "publisher": "IEEE",
+    "title": "Towards pulverised architectures for collective adaptive systems through multi-tier programming",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/ACSOS-C52956.2021.00078",
+    "URL": "https://doi.org/10.1109/ACSOS-C52956.2021.00078",
+    "author": [
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      }
+    ],
+    "container-title": "IEEE international conference on autonomic computing and self-organizing systems, ACSOS 2021, companion volume, washington, DC, USA, september 27 - oct. 1, 2021",
+    "editor": [
+      {
+        "family": "El-Araby",
+        "given": "Esam"
+      },
+      {
+        "family": "Kalogeraki",
+        "given": "Vana"
+      },
+      {
+        "family": "Pianini",
+        "given": "Danilo"
+      },
+      {
+        "family": "Lassabe",
+        "given": "Frédéric"
+      },
+      {
+        "family": "Porter",
+        "given": "Barry"
+      },
+      {
+        "family": "Ghahremani",
+        "given": "Sona"
+      },
+      {
+        "family": "Nunes",
+        "given": "Ingrid"
+      },
+      {
+        "family": "Bakhouya",
+        "given": "Mohamed"
+      },
+      {
+        "family": "Tomforde",
+        "given": "Sven"
+      }
+    ],
+    "id": "DBLP:conf/acsos/Aguzzi21",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "310-312",
+    "publisher": "IEEE",
+    "title": "Research directions for aggregate computing with machine learning",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1007/978-3-030-78142-2\\_18",
+    "URL": "https://doi.org/10.1007/978-3-030-78142-2\\_18",
+    "author": [
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Casadei",
+        "given": "Roberto"
+      },
+      {
+        "family": "Maltoni",
+        "given": "Niccolò"
+      },
+      {
+        "family": "Pianini",
+        "given": "Danilo"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "collection-title": "Lecture notes in computer science",
+    "container-title": "Coordination models and languages - 23rd IFIP WG 6.1 international conference, COORDINATION 2021, held as part of the 16th international federated conference on distributed computing techniques, DisCoTec 2021, valletta, malta, june 14-18, 2021, proceedings",
+    "editor": [
+      {
+        "family": "Damiani",
+        "given": "Ferruccio"
+      },
+      {
+        "family": "Dardha",
+        "given": "Ornela"
+      }
+    ],
+    "id": "DBLP:conf/coordination/AguzziCMPV21",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "285-299",
+    "publisher": "Springer",
+    "title": "ScaFi-web: A web-based application for field-based coordination programming",
+    "title-short": "ScaFi-web",
+    "type": "paper-conference",
+    "volume": "12717"
+  },
+  {
+    "DOI": "10.1145/3462203.3477056",
+    "URL": "https://doi.org/10.1145/3462203.3477056",
+    "author": [
+      {
+        "family": "Delnevo",
+        "given": "Giovanni"
+      },
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Letizi",
+        "given": "Simone"
+      },
+      {
+        "family": "Luffarelli",
+        "given": "Marta"
+      },
+      {
+        "family": "Petreti",
+        "given": "Andrea"
+      },
+      {
+        "family": "Mirri",
+        "given": "Silvia"
+      }
+    ],
+    "container-title": "GoodIT ’21: Conference on information technology for social good, roma, italy, september 9-11, 2021",
+    "editor": [
+      {
+        "family": "Gaggi",
+        "given": "Ombretta"
+      },
+      {
+        "family": "Manzoni",
+        "given": "Pietro"
+      },
+      {
+        "family": "Palazzi",
+        "given": "Claudio E."
+      }
+    ],
+    "id": "DBLP:conf/goodit/DelnevoALLPM21",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "230-235",
+    "publisher": "ACM",
+    "title": "Encouraging users in waste sorting using deep neural networks and gamification",
+    "type": "paper-conference"
+  }
 ]
