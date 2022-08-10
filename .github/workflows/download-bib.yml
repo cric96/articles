@@ -19,7 +19,7 @@ jobs:
       - name: Convert Bib to CSL JSON
         uses: docker://pandoc/core:2.9
         with:
-          args: "lib.bib -t csljson -o lib.json "
+          args: "-r bibtex lib.bib -w csljson -o lib.json"
       
       - name: Update repository
         uses: stefanzweifel/git-auto-commit-action@v4
