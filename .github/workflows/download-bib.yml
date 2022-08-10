@@ -17,7 +17,7 @@ jobs:
         run: wget -c https://dblp.uni-trier.de/pid/294/4314.bib -O lib.bib
         
       - name: Convert Bib to CSL JSON
-        uses: docker://pandoc/core:2.9
+        uses: docker://pandoc/core:2.18
         with:
           args: "-r bibtex lib.bib -w csljson -o lib.json"
       
