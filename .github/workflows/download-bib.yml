@@ -19,6 +19,8 @@ jobs:
         run: rm lib.json
       - name: Download Bib from DBLB
         run: wget -c https://dblp.uni-trier.de/pid/294/4314.bib -O lib.bib
+      - name: Show bib:
+        run: cat lib.bib
       - name: Convert Bib to CSL JSON
         uses: docker://pandoc/core:2.18
         with:
