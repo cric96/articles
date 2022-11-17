@@ -15,14 +15,16 @@ jobs:
     steps:  
       - name: Repository Checkout
         uses: actions/checkout@v2
+      - name: Clean old bib
+        run: rm lib.json
       - name: Download Bib from DBLB
         run: wget -c https://dblp.uni-trier.de/pid/294/4314.bib -O lib.bib
-        
       - name: Convert Bib to CSL JSON
         uses: docker://pandoc/core:2.18
         with:
           args: "-r bibtex lib.bib -w csljson -o lib.json"
-      
+      - name: Clean bib from dblp
+        run: rm lib.bib
       - name: Update repository
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
