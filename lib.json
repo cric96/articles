@@ -1,5 +1,87 @@
 [
   {
+    "DOI": "10.1109/ACSOS55765.2022.00019",
+    "URL": "https://doi.org/10.1109/ACSOS55765.2022.00019",
+    "author": [
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Casadei",
+        "given": "Roberto"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "container-title": "IEEE international conference on autonomic computing and self-organizing systems, ACSOS 2022, virtual, CA, USA, september 19-23, 2022",
+    "editor": [
+      {
+        "family": "Casadei",
+        "given": "Roberto"
+      },
+      {
+        "family": "Nitto",
+        "given": "Elisabetta Di"
+      },
+      {
+        "family": "Gerostathopoulos",
+        "given": "Ilias"
+      },
+      {
+        "family": "Pianini",
+        "given": "Danilo"
+      },
+      {
+        "family": "Dusparic",
+        "given": "Ivana"
+      },
+      {
+        "family": "Wood",
+        "given": "Timothy"
+      },
+      {
+        "family": "Nelson",
+        "given": "Phyllis R."
+      },
+      {
+        "family": "Pournaras",
+        "given": "Evangelos"
+      },
+      {
+        "family": "Bencomo",
+        "given": "Nelly"
+      },
+      {
+        "family": "Götz",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Krupitzer",
+        "given": "Christian"
+      },
+      {
+        "family": "Raibulet",
+        "given": "Claudia"
+      }
+    ],
+    "id": "DBLP:conf/acsos/AguzziCV22",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "11-20",
+    "publisher": "IEEE",
+    "title": "Addressing collective computations efficiency: Towards a platform-level reinforcement learning approach",
+    "title-short": "Addressing collective computations efficiency",
+    "type": "paper-conference"
+  },
+  {
     "DOI": "10.1007/978-3-031-08143-9\\_5",
     "URL": "https://doi.org/10.1007/978-3-031-08143-9\\_5",
     "author": [
@@ -264,63 +346,6 @@
     "title-short": "ScaFi-web",
     "type": "paper-conference",
     "volume": "12717"
-  },
-  {
-    "DOI": "10.1145/3462203.3477056",
-    "URL": "https://doi.org/10.1145/3462203.3477056",
-    "author": [
-      {
-        "family": "Delnevo",
-        "given": "Giovanni"
-      },
-      {
-        "family": "Aguzzi",
-        "given": "Gianluca"
-      },
-      {
-        "family": "Letizi",
-        "given": "Simone"
-      },
-      {
-        "family": "Luffarelli",
-        "given": "Marta"
-      },
-      {
-        "family": "Petreti",
-        "given": "Andrea"
-      },
-      {
-        "family": "Mirri",
-        "given": "Silvia"
-      }
-    ],
-    "container-title": "GoodIT ’21: Conference on information technology for social good, roma, italy, september 9-11, 2021",
-    "editor": [
-      {
-        "family": "Gaggi",
-        "given": "Ombretta"
-      },
-      {
-        "family": "Manzoni",
-        "given": "Pietro"
-      },
-      {
-        "family": "Palazzi",
-        "given": "Claudio E."
-      }
-    ],
-    "id": "DBLP:conf/goodit/DelnevoALLPM21",
-    "issued": {
-      "date-parts": [
-        [
-          2021
-        ]
-      ]
-    },
-    "page": "230-235",
-    "publisher": "ACM",
-    "title": "Encouraging users in waste sorting using deep neural networks and gamification",
-    "type": "paper-conference"
   },
   {
     "DOI": "10.1145/3462203.3477056",
