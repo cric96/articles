@@ -321,5 +321,62 @@
     "publisher": "ACM",
     "title": "Encouraging users in waste sorting using deep neural networks and gamification",
     "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/3462203.3477056",
+    "URL": "https://doi.org/10.1145/3462203.3477056",
+    "author": [
+      {
+        "family": "Delnevo",
+        "given": "Giovanni"
+      },
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Letizi",
+        "given": "Simone"
+      },
+      {
+        "family": "Luffarelli",
+        "given": "Marta"
+      },
+      {
+        "family": "Petreti",
+        "given": "Andrea"
+      },
+      {
+        "family": "Mirri",
+        "given": "Silvia"
+      }
+    ],
+    "container-title": "GoodIT ’21: Conference on information technology for social good, roma, italy, september 9-11, 2021",
+    "editor": [
+      {
+        "family": "Gaggi",
+        "given": "Ombretta"
+      },
+      {
+        "family": "Manzoni",
+        "given": "Pietro"
+      },
+      {
+        "family": "Palazzi",
+        "given": "Claudio E."
+      }
+    ],
+    "id": "DBLP:conf/goodit/DelnevoALLPM21",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "230-235",
+    "publisher": "ACM",
+    "title": "Encouraging users in waste sorting using deep neural networks and gamification",
+    "type": "paper-conference"
   }
 ]
