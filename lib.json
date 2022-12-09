@@ -126,6 +126,38 @@
     "volume": "13271"
   },
   {
+    "DOI": "10.1109/ICDCSW56584.2022.00032",
+    "URL": "https://doi.org/10.1109/ICDCSW56584.2022.00032",
+    "author": [
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Casadei",
+        "given": "Roberto"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "container-title": "42nd IEEE international conference on distributed computing systems, ICDCS workshops, bologna, italy, july 10, 2022",
+    "id": "DBLP:conf/icdcs/AguzziCV22",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "119-124",
+    "publisher": "IEEE",
+    "title": "Machine learning for aggregate computing: A research roadmap",
+    "title-short": "Machine learning for aggregate computing",
+    "type": "paper-conference"
+  },
+  {
     "DOI": "10.3390/jsan10020027",
     "URL": "https://doi.org/10.3390/jsan10020027",
     "author": [
