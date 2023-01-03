@@ -126,6 +126,58 @@
     "volume": "13271"
   },
   {
+    "DOI": "10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927839",
+    "URL": "https://doi.org/10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927839",
+    "author": [
+      {
+        "family": "Casadei",
+        "given": "Roberto"
+      },
+      {
+        "family": "Pianini",
+        "given": "Danilo"
+      },
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Audrito",
+        "given": "Giorgio"
+      },
+      {
+        "family": "Torta",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Ottina",
+        "given": "Marco"
+      },
+      {
+        "family": "Damiani",
+        "given": "Ferruccio"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "container-title": "IEEE intl. Conf. On dependable, autonomic and secure computing, intl conf on pervasive intelligence and computing, intl conf on cloud and big data computing, intl conf on cyber science and technology congress, DASC/PiCom/CBDCom/CyberSciTech 2022, falerna, italy, september 12-15, 2022",
+    "id": "DBLP:conf/dasc/CasadeiPAATODV22",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "1-6",
+    "publisher": "IEEE",
+    "title": "Towards automated engineering for collective adaptive systems: Vision and research directions",
+    "title-short": "Towards automated engineering for collective adaptive systems",
+    "type": "paper-conference"
+  },
+  {
     "DOI": "10.1109/ICDCSW56584.2022.00032",
     "URL": "https://doi.org/10.1109/ICDCSW56584.2022.00032",
     "author": [
