@@ -1,5 +1,41 @@
 [
   {
+    "DOI": "10.1109/MIC.2022.3216753",
+    "URL": "https://doi.org/10.1109/MIC.2022.3216753",
+    "author": [
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Casadei",
+        "given": "Roberto"
+      },
+      {
+        "family": "Pianini",
+        "given": "Danilo"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "container-title": "IEEE Internet Comput.",
+    "id": "DBLP:journals/internet/AguzziCPV22",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "16-23",
+    "title": "Dynamic decentralization domains for the internet of things",
+    "type": "article-journal",
+    "volume": "26"
+  },
+  {
     "DOI": "10.1109/ACSOS55765.2022.00019",
     "URL": "https://doi.org/10.1109/ACSOS55765.2022.00019",
     "author": [
