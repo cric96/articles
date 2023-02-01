@@ -36,6 +36,42 @@
     "volume": "26"
   },
   {
+    "DOI": "10.1016/j.softx.2022.101248",
+    "URL": "https://doi.org/10.1016/j.softx.2022.101248",
+    "author": [
+      {
+        "family": "Casadei",
+        "given": "Roberto"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      },
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Pianini",
+        "given": "Danilo"
+      }
+    ],
+    "container-title": "SoftwareX",
+    "id": "DBLP:journals/softx/CasadeiVAP22",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "101248",
+    "title": "ScaFi: A scala DSL and toolkit for aggregate programming",
+    "title-short": "ScaFi",
+    "type": "article-journal",
+    "volume": "20"
+  },
+  {
     "DOI": "10.1109/ACSOS55765.2022.00019",
     "URL": "https://doi.org/10.1109/ACSOS55765.2022.00019",
     "author": [
