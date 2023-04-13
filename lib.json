@@ -326,7 +326,38 @@
     "type": "paper-conference"
   },
   {
+    "DOI": "10.21227/qgbp-w789",
+    "URL": "https://doi.org/10.21227/qgbp-w789",
+    "author": [
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Casadei",
+        "given": "Roberto"
+      },
+      {
+        "family": "Pianini",
+        "given": "Danilo"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
     "id": "DBLP:data/10/AguzziCPV22",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          4
+        ]
+      ]
+    },
+    "note": "Accessed on YYYY-MM-DD.",
+    "publisher": "https://doi.org/10.21227/qgbp-w789; IEEE DataPort",
+    "title": "Dynamic decentralization domains for the internet of things - simulation repository",
     "type": ""
   },
   {
