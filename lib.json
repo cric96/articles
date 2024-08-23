@@ -1,6 +1,380 @@
 [
   {
-    "DOI": "10.1007/s11721-022-00215-y",
+    "DOI": "10.1016/J.SCICO.2024.103182",
+    "URL": "https://doi.org/10.1016/j.scico.2024.103182",
+    "author": [
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "container-title": "Sci. Comput. Program.",
+    "id": "DBLP:journals/scp/AguzziV25",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "page": "103182",
+    "title": "MacroSwarm: A scala framework for swarm programming",
+    "title-short": "MacroSwarm",
+    "type": "article-journal",
+    "volume": "239"
+  },
+  {
+    "DOI": "10.1016/J.SCICO.2024.103176",
+    "URL": "https://doi.org/10.1016/j.scico.2024.103176",
+    "author": [
+      {
+        "family": "Domini",
+        "given": "Davide"
+      },
+      {
+        "family": "Cavallari",
+        "given": "Filippo"
+      },
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "container-title": "Sci. Comput. Program.",
+    "id": "DBLP:journals/scp/DominiCAV24",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "103176",
+    "title": "ScaRLib: Towards a hybrid toolchain for aggregate computing and many-agent reinforcement learning",
+    "title-short": "ScaRLib",
+    "type": "article-journal",
+    "volume": "238"
+  },
+  {
+    "DOI": "10.1007/978-3-031-62697-5\\_4",
+    "URL": "https://doi.org/10.1007/978-3-031-62697-5\\_4",
+    "author": [
+      {
+        "family": "Domini",
+        "given": "Davide"
+      },
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Esterle",
+        "given": "Lukas"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "collection-title": "Lecture notes in computer science",
+    "container-title": "Coordination models and languages - 26th IFIP WG 6.1 international conference, COORDINATION 2024, held as part of the 19th international federated conference on distributed computing techniques, DisCoTec 2024, groningen, the netherlands, june 17-21, 2024, proceedings",
+    "editor": [
+      {
+        "family": "Castellani",
+        "given": "Ilaria"
+      },
+      {
+        "family": "Tiezzi",
+        "given": "Francesco"
+      }
+    ],
+    "id": "DBLP:conf/coordination/DominiAEV24",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "56-74",
+    "publisher": "Springer",
+    "title": "Field-based coordination for federated learning",
+    "type": "paper-conference",
+    "volume": "14676"
+  },
+  {
+    "DOI": "10.1007/978-3-031-62697-5\\_14",
+    "URL": "https://doi.org/10.1007/978-3-031-62697-5\\_14",
+    "author": [
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Casadei",
+        "given": "Roberto"
+      },
+      {
+        "family": "Cerioni",
+        "given": "Matteo"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "collection-title": "Lecture notes in computer science",
+    "container-title": "Coordination models and languages - 26th IFIP WG 6.1 international conference, COORDINATION 2024, held as part of the 19th international federated conference on distributed computing techniques, DisCoTec 2024, groningen, the netherlands, june 17-21, 2024, proceedings",
+    "editor": [
+      {
+        "family": "Castellani",
+        "given": "Ilaria"
+      },
+      {
+        "family": "Tiezzi",
+        "given": "Francesco"
+      }
+    ],
+    "id": "DBLP:conf/coordination/AguzziCCV24",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "258-276",
+    "publisher": "Springer",
+    "title": "ScaFi-blocks: A visual aggregate programming environment for low-code swarm design",
+    "title-short": "ScaFi-blocks",
+    "type": "paper-conference",
+    "volume": "14676"
+  },
+  {
+    "DOI": "10.1109/DCOSS-IOT61029.2024.00089",
+    "URL": "https://doi.org/10.1109/DCOSS-IoT61029.2024.00089",
+    "author": [
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Savaglio",
+        "given": "Claudio"
+      }
+    ],
+    "container-title": "20th international conference on distributed computing in smart systems and the internet of things, DCOSS-IoT 2024, abu dhabi, united arab emirates, april 29 - may 1, 2024",
+    "id": "DBLP:conf/dcoss/AguzziS24",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "570-575",
+    "publisher": "IEEE",
+    "title": "Engineering distributed collective intelligence in cyber-physical swarms",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/PERCOMWORKSHOPS59983.2024.10503257",
+    "URL": "https://doi.org/10.1109/PerComWorkshops59983.2024.10503257",
+    "author": [
+      {
+        "family": "Montagna",
+        "given": "Sara"
+      },
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Ferretti",
+        "given": "Stefano"
+      },
+      {
+        "family": "Pengo",
+        "given": "Martino Francesco"
+      },
+      {
+        "family": "Klopfenstein",
+        "given": "Lorenz Cuno"
+      },
+      {
+        "family": "Ungolo",
+        "given": "Michelangelo"
+      },
+      {
+        "family": "Magnini",
+        "given": "Matteo"
+      }
+    ],
+    "container-title": "IEEE international conference on pervasive computing and communications workshops and other affiliated events, PerCom 2024 - workshops, biarritz, france, march 11-15, 2024",
+    "id": "DBLP:conf/percom/MontagnaAFPKUM24",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "346-351",
+    "publisher": "IEEE",
+    "title": "LLM-based solutions for healthcare chatbots: A comparative analysis",
+    "title-short": "LLM-based solutions for healthcare chatbots",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://ceur-ws.org/Vol-3735/paper\\_19.pdf",
+    "author": [
+      {
+        "family": "Domini",
+        "given": "Davide"
+      },
+      {
+        "family": "Farabegoli",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "collection-title": "CEUR workshop proceedings",
+    "container-title": "Proceedings of the 25th workshop \"from objects to agents\", bard (aosta), italy, july 8-10, 2024",
+    "editor": [
+      {
+        "family": "Alderighi",
+        "given": "Marco"
+      },
+      {
+        "family": "Baldoni",
+        "given": "Matteo"
+      },
+      {
+        "family": "Baroglio",
+        "given": "Cristina"
+      },
+      {
+        "family": "Micalizio",
+        "given": "Roberto"
+      },
+      {
+        "family": "Tedeschi",
+        "given": "Stefano"
+      }
+    ],
+    "id": "DBLP:conf/woa/DominiFAV24",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "233-251",
+    "publisher": "CEUR-WS.org",
+    "title": "Towards intelligent pulverized systems: A modern approach for edge-cloud services",
+    "title-short": "Towards intelligent pulverized systems",
+    "type": "paper-conference",
+    "volume": "3735"
+  },
+  {
+    "DOI": "10.48550/ARXIV.2401.10969",
+    "URL": "https://doi.org/10.48550/arXiv.2401.10969",
+    "author": [
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Casadei",
+        "given": "Roberto"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "container-title": "CoRR",
+    "id": "DBLP:journals/corr/abs-2401-10969",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "title": "MacroSwarm: A field-based compositional framework for swarm programming",
+    "title-short": "MacroSwarm",
+    "type": "article-journal",
+    "volume": "abs/2401.10969"
+  },
+  {
+    "DOI": "10.48550/ARXIV.2406.04780",
+    "URL": "https://doi.org/10.48550/arXiv.2406.04780",
+    "author": [
+      {
+        "family": "Casadei",
+        "given": "Roberto"
+      },
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Audrito",
+        "given": "Giorgio"
+      },
+      {
+        "family": "Damiani",
+        "given": "Ferruccio"
+      },
+      {
+        "family": "Pianini",
+        "given": "Danilo"
+      },
+      {
+        "family": "Scarso",
+        "given": "Giordano"
+      },
+      {
+        "family": "Torta",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "container-title": "CoRR",
+    "id": "DBLP:journals/corr/abs-2406-04780",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "title": "Software engineering for collective cyber-physical ecosystems",
+    "type": "article-journal",
+    "volume": "abs/2406.04780"
+  },
+  {
+    "DOI": "10.1007/S11721-022-00215-Y",
     "URL": "https://doi.org/10.1007/s11721-022-00215-y",
     "author": [
       {
@@ -30,7 +404,7 @@
     ],
     "container-title": "Swarm Intell.",
     "id": "DBLP:journals/swarm/AguzziACDTV23",
-    "issue": "1",
+    "issue": "1-2",
     "issued": {
       "date-parts": [
         [
@@ -42,6 +416,205 @@
     "title": "A field-based computing approach to sensing-driven clustering in robot swarms",
     "type": "article-journal",
     "volume": "17"
+  },
+  {
+    "DOI": "10.1109/ACSOS-C58168.2023.00032",
+    "URL": "https://doi.org/10.1109/ACSOS-C58168.2023.00032",
+    "author": [
+      {
+        "family": "Casadei",
+        "given": "Roberto"
+      },
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Pianini",
+        "given": "Danilo"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "container-title": "IEEE international conference on autonomic computing and self-organizing systems, ACSOS 2023 - companion, toronto, ON, canada, september 25-29, 2023",
+    "id": "DBLP:conf/acsos/CasadeiAPV23",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "33-34",
+    "publisher": "IEEE",
+    "title": "Programming (and learning) self-adaptive & self-organising behaviour with ScaFi: For swarms, edge-cloud ecosystems, and more",
+    "title-short": "Programming (and learning) self-adaptive & self-organising behaviour with ScaFi",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/ACSOS58161.2023.00021",
+    "URL": "https://doi.org/10.1109/ACSOS58161.2023.00021",
+    "author": [
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      },
+      {
+        "family": "Esterle",
+        "given": "Lukas"
+      }
+    ],
+    "container-title": "IEEE international conference on autonomic computing and self-organizing systems, ACSOS 2023, toronto, ON, canada, september 25-29, 2023",
+    "id": "DBLP:conf/acsos/AguzziVE23",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "37-46",
+    "publisher": "IEEE",
+    "title": "Field-informed reinforcement learning of collective tasks with graph neural networks",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/ACSOS58161.2023.00026",
+    "URL": "https://doi.org/10.1109/ACSOS58161.2023.00026",
+    "author": [
+      {
+        "family": "Casadei",
+        "given": "Roberto"
+      },
+      {
+        "family": "Dente",
+        "given": "Francesco"
+      },
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Pianini",
+        "given": "Danilo"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "container-title": "IEEE international conference on autonomic computing and self-organizing systems, ACSOS 2023, toronto, ON, canada, september 25-29, 2023",
+    "id": "DBLP:conf/acsos/CasadeiAAPV23",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "87-96",
+    "publisher": "IEEE",
+    "title": "Self-organisation programming: A functional reactive macro approach",
+    "title-short": "Self-organisation programming",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1007/978-3-031-35361-1\\_2",
+    "URL": "https://doi.org/10.1007/978-3-031-35361-1\\_2",
+    "author": [
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Casadei",
+        "given": "Roberto"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "collection-title": "Lecture notes in computer science",
+    "container-title": "Coordination models and languages - 25th IFIP WG 6.1 international conference, COORDINATION 2023, held as part of the 18th international federated conference on distributed computing techniques, DisCoTec 2023, lisbon, portugal, june 19-23, 2023, proceedings",
+    "editor": [
+      {
+        "family": "Jongmans",
+        "given": "Sung-Shik"
+      },
+      {
+        "family": "Lopes",
+        "given": "Antónia"
+      }
+    ],
+    "id": "DBLP:conf/coordination/AguzziCV23",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "31-51",
+    "publisher": "Springer",
+    "title": "MacroSwarm: A field-based compositional framework for swarm programming",
+    "title-short": "MacroSwarm",
+    "type": "paper-conference",
+    "volume": "13908"
+  },
+  {
+    "DOI": "10.1007/978-3-031-35361-1\\_3",
+    "URL": "https://doi.org/10.1007/978-3-031-35361-1\\_3",
+    "author": [
+      {
+        "family": "Domini",
+        "given": "Davide"
+      },
+      {
+        "family": "Cavallari",
+        "given": "Filippo"
+      },
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "collection-title": "Lecture notes in computer science",
+    "container-title": "Coordination models and languages - 25th IFIP WG 6.1 international conference, COORDINATION 2023, held as part of the 18th international federated conference on distributed computing techniques, DisCoTec 2023, lisbon, portugal, june 19-23, 2023, proceedings",
+    "editor": [
+      {
+        "family": "Jongmans",
+        "given": "Sung-Shik"
+      },
+      {
+        "family": "Lopes",
+        "given": "Antónia"
+      }
+    ],
+    "id": "DBLP:conf/coordination/DominiCAV23",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "52-70",
+    "publisher": "Springer",
+    "title": "ScaRLib: A framework for cooperative many agent deep reinforcement learning in scala",
+    "title-short": "ScaRLib",
+    "type": "paper-conference",
+    "volume": "13908"
   },
   {
     "DOI": "10.1109/MIC.2022.3216753",
@@ -80,7 +653,7 @@
     "volume": "26"
   },
   {
-    "DOI": "10.1016/j.softx.2022.101248",
+    "DOI": "10.1016/J.SOFTX.2022.101248",
     "URL": "https://doi.org/10.1016/j.softx.2022.101248",
     "author": [
       {
@@ -242,7 +815,7 @@
     "volume": "13271"
   },
   {
-    "DOI": "10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927839",
+    "DOI": "10.1109/DASC/PICOM/CBDCOM/CY55231.2022.9927839",
     "URL": "https://doi.org/10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927839",
     "author": [
       {
@@ -326,7 +899,7 @@
     "type": "paper-conference"
   },
   {
-    "DOI": "10.21227/qgbp-w789",
+    "DOI": "10.21227/QGBP-W789",
     "URL": "https://doi.org/10.21227/qgbp-w789",
     "author": [
       {
@@ -361,7 +934,7 @@
     "type": ""
   },
   {
-    "DOI": "10.3390/jsan10020027",
+    "DOI": "10.3390/JSAN10020027",
     "URL": "https://doi.org/10.3390/jsan10020027",
     "author": [
       {
