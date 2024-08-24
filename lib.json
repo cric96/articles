@@ -374,6 +374,44 @@
     "volume": "abs/2406.04780"
   },
   {
+    "DOI": "10.48550/ARXIV.2407.12410",
+    "URL": "https://doi.org/10.48550/arXiv.2407.12410",
+    "author": [
+      {
+        "family": "Domini",
+        "given": "Davide"
+      },
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Farabegoli",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      },
+      {
+        "family": "Esterle",
+        "given": "Lukas"
+      }
+    ],
+    "container-title": "CoRR",
+    "id": "DBLP:journals/corr/abs-2407-12410",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "title": "Proximity-based self-federated learning",
+    "type": "article-journal",
+    "volume": "abs/2407.12410"
+  },
+  {
     "DOI": "10.1007/S11721-022-00215-Y",
     "URL": "https://doi.org/10.1007/s11721-022-00215-y",
     "author": [
