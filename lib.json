@@ -28,6 +28,27 @@
     "volume": "239"
   },
   {
+    "URL": "http://amsdottorato.unibo.it/11386/",
+    "author": [
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      }
+    ],
+    "genre": "PhD thesis",
+    "id": "DBLP:phd/basesearch/Aguzzi24",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "publisher": "University of Bologna, Italy",
+    "title": "A language-based software engineering approach for cyber-physical swarms",
+    "type": "thesis"
+  },
+  {
     "DOI": "10.1016/J.SCICO.2024.103176",
     "URL": "https://doi.org/10.1016/j.scico.2024.103176",
     "author": [
