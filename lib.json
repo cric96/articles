@@ -255,6 +255,47 @@
     "type": "paper-conference"
   },
   {
+    "DOI": "10.1145/3679008.3685544",
+    "URL": "https://doi.org/10.1145/3679008.3685544",
+    "author": [
+      {
+        "family": "Aguzzi",
+        "given": "Gianluca"
+      },
+      {
+        "family": "Audrito",
+        "given": "Giorgio"
+      },
+      {
+        "family": "Viroli",
+        "given": "Mirko"
+      }
+    ],
+    "container-title": "Proceedings of the 7th ACM international workshop on verification and monitoring at runtime execution, VORTEX 2024, vienna, austria, 19 september 2024",
+    "editor": [
+      {
+        "family": "Ancona",
+        "given": "Davide"
+      },
+      {
+        "family": "Audrito",
+        "given": "Giorgio"
+      }
+    ],
+    "id": "DBLP:conf/vortex/AguzziAV24",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "25-31",
+    "publisher": "ACM",
+    "title": "Optimising aggregate monitors for spatial logic of closure spaces properties",
+    "type": "paper-conference"
+  },
+  {
     "URL": "https://ceur-ws.org/Vol-3735/paper\\_19.pdf",
     "author": [
       {
